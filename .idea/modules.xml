@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GOF23/GOF23.iml" filepath="$PROJECT_DIR$/GOF23/GOF23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMq/email-consumer/email-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/email-consumer/email-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitMq.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitmq-email-consumer/rabbitmq-email-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitmq-email-consumer/rabbitmq-email-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitmq-producer/rabbitmq-producer.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitmq-producer/rabbitmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitmq-sms-consumer/rabbitmq-sms-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitmq-sms-consumer/rabbitmq-sms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMq/sms-consumer/sms-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/sms-consumer/sms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
+    </modules>
+  </component>
+</project>
