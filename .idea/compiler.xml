@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="rabbitmq-email-consumer" />
         <module name="rabbitmq-sms-consumer" />
         <module name="rabbitmq-producer" />
+        <module name="test" />
+        <module name="rabbitmq-email-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="rabbitmq-producer" target="11" />
       <module name="rabbitmq-sms-consumer" target="11" />
       <module name="sms-consumer" target="11" />
+      <module name="test" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
