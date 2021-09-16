@@ -1,0 +1,13 @@
+#spring:
+#  application:
+#    name: nacos-simple-demo-uat
+#  cloud:
+#    nacos:
+#      config:
+#        server-addr: 127.0.0.1:8848
+#        file-extension: yaml
+#httpl: uat
+
+spring:
+  profiles:
+    active: uat

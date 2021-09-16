@@ -4,12 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GOF23/GOF23.iml" filepath="$PROJECT_DIR$/GOF23/GOF23.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deploymentEnvironment/deploymentEnvironment.iml" filepath="$PROJECT_DIR$/deploymentEnvironment/deploymentEnvironment.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitMq/email-consumer/email-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/email-consumer/email-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitMq.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitMq.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitmq-email-consumer/rabbitmq-email-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitmq-email-consumer/rabbitmq-email-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitmq-producer/rabbitmq-producer.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitmq-producer/rabbitmq-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitMq/rabbitmq-sms-consumer/rabbitmq-sms-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/rabbitmq-sms-consumer/rabbitmq-sms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redisTemplateStudy/redisTemplateStudy.iml" filepath="$PROJECT_DIR$/redisTemplateStudy/redisTemplateStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitMq/sms-consumer/sms-consumer.iml" filepath="$PROJECT_DIR$/rabbitMq/sms-consumer/sms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest/springBootTest.iml" filepath="$PROJECT_DIR$/springBootTest/springBootTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-nacos-config/springCloud-nacos-config.iml" filepath="$PROJECT_DIR$/springCloud-nacos-config/springCloud-nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springSecurityStudy/springSecurityStudy.iml" filepath="$PROJECT_DIR$/springSecurityStudy/springSecurityStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>

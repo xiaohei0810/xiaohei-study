@@ -1,0 +1,37 @@
+spring:
+  application:
+    name: xiaohei-oauth2
+  # 数据源配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/${MYSQL_DB:tdb}?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    # username: ${MYSQL_USERNAME:root}
+    # password: ${MYSQL_PASSWORD:123456}
+    url: jdbc:mysql://localhost:3306/my_database?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: dn960810
+  redis:
+    databaseMap:
+      clean: 0 # 可随时清理的库
+      unpersistence: 1 #半持久化数据
+      persistence: 2 #持久化数据
+      test: 3
+    #数据库索引
+    #    host: ${REDIS_HOST:localhost}
+    #   port: ${REDIS_PORT:6379}
+    host: 127.0.0.1
+    port: 6379
+    password: foobared
+    jedis:
+      pool:
+
+        #最大连接数
+        maxActive: 500
+        #最大等待时间
+        maxWait: -1
+        #最大空闲时间
+        maxIdle: 200
+        #最小空闲时间
+        minIdle: 0
+    #超时时间
+    timeout: 10000

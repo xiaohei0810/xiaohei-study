@@ -6,6 +6,11 @@
         <option value="$PROJECT_DIR$/rabbitMq/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitMq/rabbitmq-producer/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/deploymentEnvironment/pom.xml" />
+        <option value="$PROJECT_DIR$/redisTemplateStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/springSecurityStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/springBootTest/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud-nacos-config/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -15,7 +20,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
