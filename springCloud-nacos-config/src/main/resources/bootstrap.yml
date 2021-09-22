@@ -1,13 +1,13 @@
 #必须是写在 bootstrap.yml 中，配置在 application.yml 中不行，因为bootstrap会先执行
 spring:
-#  application:
-#    name: example
-  profiles:
-    active: dev
-#  cloud:
-#    nacos:
-#      config:
-#        server-addr: 127.0.0.1:8848
-#        file-extension: yaml
+  application:
+    name: example
+#  profiles:
+#    active: dev
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yaml
         # nacos根据${spring.application.name}.${file-extension}的dataid格式进行匹配，既example.yaml的dataid去nacos服务中寻找，如果没有，则寻找dataid为example的dataid
-test: test1111
+#test: test1111

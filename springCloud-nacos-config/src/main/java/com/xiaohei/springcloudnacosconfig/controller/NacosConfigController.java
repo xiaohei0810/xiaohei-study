@@ -15,20 +15,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/config")
 public class NacosConfigController {
 
-//    @Value("${useLocalCache}")
-//    private Boolean useLocalCache;
-
     @Value("${example}")
     private String example;
 
     @Value("${test}")
     private String test;
-
-//    @Value("${example.test}")
-//    private String exampleTest;
-
-//    @Value("${common.config1}")
-//    private String example;
 
     @RequestMapping("/get")
     public String getConfig(){
@@ -36,12 +27,4 @@ public class NacosConfigController {
         System.out.println(test);
         return example;
     }
-//
-//    @RequestMapping("/get1")
-//    public String getConfig1(){
-//        System.out.println(value);
-//        return value;
-//    }
-
-
 }
