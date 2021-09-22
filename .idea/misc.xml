@@ -5,7 +5,6 @@
       <list>
         <option value="$PROJECT_DIR$/rabbitMq/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitMq/rabbitmq-producer/pom.xml" />
-        <option value="$PROJECT_DIR$/test/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

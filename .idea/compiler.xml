@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="rabbitmq-sms-consumer" />
         <module name="rabbitmq-producer" />
-        <module name="test" />
         <module name="rabbitmq-email-consumer" />
       </profile>
     </annotationProcessing>
