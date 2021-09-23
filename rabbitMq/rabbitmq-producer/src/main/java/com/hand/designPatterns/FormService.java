@@ -16,6 +16,7 @@ public class FormService {
 
     private Map<String,ApplicationForm> map = new HashMap<>();
 
+    // 项目启动spring会自动创建对象初始化，所有继承FormStrategy的对象都能拿到
     public FormService(List<FormStrategy> list) {
 //        this.map = map;
         list.forEach(t->{
