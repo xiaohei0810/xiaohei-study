@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="rabbitmq-sms-consumer" />
         <module name="rabbitmq-producer" />
+        <module name="redisStudy" />
         <module name="rabbitmq-email-consumer" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,8 @@
       <module name="rabbitmq-email-consumer" target="11" />
       <module name="rabbitmq-producer" target="11" />
       <module name="rabbitmq-sms-consumer" target="11" />
+      <module name="redis" target="11" />
+      <module name="redisStudy" target="11" />
       <module name="sms-consumer" target="11" />
       <module name="test" target="11" />
     </bytecodeTargetLevel>
@@ -29,6 +32,8 @@
       <module name="rabbitmq-email-consumer" options="-parameters" />
       <module name="rabbitmq-producer" options="-parameters" />
       <module name="rabbitmq-sms-consumer" options="-parameters" />
+      <module name="redis" options="-parameters" />
+      <module name="redisStudy" options="-parameters" />
       <module name="sms-consumer" options="-parameters" />
     </option>
   </component>
