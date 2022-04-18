@@ -4,107 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d70f12b1-927c-428d-8a46-0258ab3caf39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/adapter/LogAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/adapter/LogFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/adapter/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/adapter/NbLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/adapter/NpLoggerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/adapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/dynamicProxy/Dynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/dynamicProxy/DynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/staticProxy/Berepresented.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/staticProxy/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/staticProxy/ProxyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/staticProxy/Represented.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/proxy/staticProxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/strategyMode/ApplicationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/strategyMode/FeiyongForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/strategyMode/LingyongForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/strategyMode/QudeForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/strategyMode/StrategyMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GOF23/src/com/hand/strategyMode/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/src/TT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/src/com/hand/HmallPlanetCouponPoolItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/SpringBootDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/src/main/java/com/xiaohei/springbootdemo/SpringBootDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/src/main/java/com/xiaohei/springbootdemo/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo/src/test/java/com/xiaohei/springbootdemo/SpringBootDemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/main/java/com/hand/strategy/ApplicationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/main/java/com/hand/strategy/FeiyongForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/main/java/com/hand/strategy/Lingyong2Form.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/main/java/com/hand/strategy/QudeForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/main/java/com/hand/strategy/StrategyMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaohei/springsecurity/SpringSecurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaohei/springsecurity/config/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaohei/springsecurity/controller/LoginSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaohei/springsecurity/service/StringDataUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xiaohei/springsecurity/SpringSecurityApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaohei/springsecurity/SpringSecurityApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaohei/springsecurity/config/SecurityConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaohei/springsecurity/controller/LoginSuccess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaohei/springsecurity/service/StringDataUserDetailsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xiaohei/springsecurity/SpringSecurityApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springCloud-nacos-config/.idea/springCloud-nacos-config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsecurityoauth2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/test/java/com/hand/rabbitmqproducer/RabbitmqProducerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/src/test/java/com/hand/rabbitmqproducer/RabbitmqProducerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/target/classes/com/hand/designPatterns/FormService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/target/classes/com/hand/designPatterns/FormService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/target/test-classes/com/hand/rabbitmqproducer/RabbitmqProducerApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitMq/rabbitmq-producer/target/test-classes/com/hand/rabbitmqproducer/RabbitmqProducerApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/main/java/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/Father.java" afterDir="false" />
+    <list default="true" id="d70f12b1-927c-428d-8a46-0258ab3caf39" name="Changes" comment="代码提交">
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/SpringSecurityOauth2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/config/AuthorizationServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/config/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/config/TokenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/config/UserLogoutSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/controller/LoginSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/java/com/xiaohei/springsecurityoauth2/controller/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-Security-Oauth2/src/test/java/com/xiaohei/springsecurityoauth2/SpringSecurityOauth2ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurityoauth2/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,8 +121,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649846447115</updated>
-      <workItem from="1649846450601" duration="6221000" />
+      <workItem from="1649846450601" duration="9135000" />
     </task>
+    <task id="LOCAL-00001" summary="代码提交">
+      <created>1649926414976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649926414976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="代码提交">
+      <created>1649926422828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649926422828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +153,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,8 @@
+datasource:
+  driver-class-name: com.mysql.jdbc.Driver
+  # url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/${MYSQL_DB:tdb}?useUnicode=true&characterEncoding=utf-8&useSSL=false
+  # username: ${MYSQL_USERNAME:root}
+  # password: ${MYSQL_PASSWORD:123456}
+  url: jdbc:mysql://localhost:3306/my_mysql?useUnicode=true&characterEncoding=utf-8&useSSL=false
+  username: root
+  password: dn960810
